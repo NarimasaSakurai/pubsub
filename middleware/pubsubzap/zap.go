@@ -6,7 +6,7 @@ import (
 
 	"github.com/lileio/pubsub"
 	opentracing "github.com/opentracing/opentracing-go"
-	zipkintracing "github.com/openzipkin/zipkin-go-opentracing"
+	zipkintracing "github.com/openzipkin-contrib/zipkin-go-opentracing"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
