@@ -9,7 +9,7 @@ import (
 	"github.com/lileio/pubsub/test"
 	opentracing "github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/log"
-	zipkintracer "github.com/openzipkin/zipkin-go-opentracing"
+	zipkintracer "github.com/openzipkin-contrib/zipkin-go-opentracing"
 	"github.com/stretchr/testify/assert"
 )
 
